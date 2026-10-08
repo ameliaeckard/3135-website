@@ -25,7 +25,3 @@ Open `http://localhost:8000`. Course-specific pages live under `itis3135/`.
 ## Contributing
 
 Issues are welcome for bugs or documentation problems. Please open an issue before a substantial pull request.
-
-## License
-
-UNLICENSED © Amelia Eckard.
